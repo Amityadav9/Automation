@@ -190,7 +190,7 @@ if __name__ == "__main__":
     bavarian_screenshots_folder = "bavarian_screenshots"
 
     if not os.path.exists(input_file):
-        # Create example file if it doesn't exist
+        # Create example file if it doesn't exist, not necessary
         with open(input_file, "w", encoding="utf-8") as f:
             f.write("Das Wetter ist heute schön.\n")
             f.write("Ich möchte ein Bier bestellen.\n")
