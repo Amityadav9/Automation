@@ -85,7 +85,7 @@ bavarian_screenshots_folder = "bavarian_screenshots"  # Folder for Bavarian scre
    - Clicks the translate button
    - Takes a screenshot of the result page
    - Extracts the Bavarian translation text
-   - Saves all information to the CSV file
+   - Saves all information to the file
 
 ## Limitations
 
